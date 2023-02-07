@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shochmuth.github.io/random_quote_generator",
+  "homepage": "https://shochmut.github.io/random_quote_generator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
